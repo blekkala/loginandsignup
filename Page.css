@@ -1,0 +1,37 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(Destination.jpg);
+}
+h1{
+    text-align: center;
+    text-decoration: dotted;
+    color: blue;
+}
+#login{
+    width: 50%;
+	margin: 20px auto;
+	padding: 200px;
+	border: 22px solid #130a0a;
+	border-radius: 10px;
+    font-size: large;
+    text-align: center;
+    background-color: azure;
+}
+#login-button {
+    display: block;
+    margin:  auto;
+  }
+#signup {
+	width: 60%;
+	margin: 40px auto;
+	padding: 40px;
+	border: 30px solid #424141;
+	border-radius: 10px;
+    font-size: large;
+    text-align: center;
+    background-color: azure;
+}
+p{
+    text-align: center;
+    font-size: medium;
+}
